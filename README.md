@@ -1,5 +1,5 @@
 # EXP 03-Entity-Student-and-build-a-CRUD-operations-using-Spring-Boot-Hibernate-Configuration
-### Name: DHANUSHA K
+### Name: Dhanusha K
 ### Register Number: 212223040034
 ## AIM:
 To develop a Spring Boot application that performs CRUD (Create, Read, Update, Delete) operations on a Student entity using Spring Data JPA (Hibernate).
@@ -237,26 +237,22 @@ public class AjwExp3Application {
 
 # Output:
 ### POST
-<img width="1917" height="1016" alt="ex3 post" src="https://github.com/user-attachments/assets/37c5439e-66b2-4c4f-9149-1985678dbe65" />
+<img width="1920" height="1080" alt="exp3 postmapping" src="https://github.com/user-attachments/assets/05d110bc-67e4-434d-979a-ff6f8c866850" />
 
 ### GET
-<img width="1917" height="1017" alt="ex3 get" src="https://github.com/user-attachments/assets/7aa3f731-e83f-43de-bf81-4c831a2d2f82" />
+<img width="1920" height="1080" alt="exp3 getmapping" src="https://github.com/user-attachments/assets/6ce467af-fe46-421e-b20e-2a58ba0a5cf7" />
 
 ### Get by Id
-<img width="1918" height="1025" alt="ex3 getbyid" src="https://github.com/user-attachments/assets/795aeea0-6992-4717-a0a4-89064140a7e4" />
+<img width="1920" height="1080" alt="exp3 getmappingbyid" src="https://github.com/user-attachments/assets/4a5a3631-3778-44e1-9c2b-7c0e2d8110ef" />
 
 ### PUT 
-<img width="1917" height="1030" alt="ex3 put" src="https://github.com/user-attachments/assets/7ec0c655-5313-41bf-bc90-e4b5894ae262" />
-
+<img width="1920" height="1080" alt="exp3 putmapping" src="https://github.com/user-attachments/assets/6edcfdad-b345-463e-b2f4-58c066a47535" />
 
 ### DELETE
-
-<img width="1918" height="1031" alt="ex3 delete" src="https://github.com/user-attachments/assets/c8724293-8176-456e-bbc2-a9625c63e5df" />
-
+<img width="1920" height="1080" alt="exp3 deletemapping" src="https://github.com/user-attachments/assets/d31435c5-72d3-4d0a-b17b-a17e8a5c7f77" />
 
 ### h2-console
-<img width="1918" height="1025" alt="ex3 h2 console" src="https://github.com/user-attachments/assets/342a0552-a034-41e1-9153-2968ccf55a77" />
-
+<img width="1920" height="1080" alt="exp3 h2-console" src="https://github.com/user-attachments/assets/e9639092-d5b5-4d9e-b781-a4c202184ae5" />
 
 # Result:
 The Spring Boot application for performing CRUD operations on the Student entity using Spring Data JPA (Hibernate) and an in-memory H2 database was successfully developed, executed, and verified using Postman API requests and the H2 Web Console.
