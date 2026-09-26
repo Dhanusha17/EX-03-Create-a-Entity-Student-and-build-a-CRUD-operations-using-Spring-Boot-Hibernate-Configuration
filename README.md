@@ -237,22 +237,27 @@ public class AjwExp3Application {
 
 # Output:
 ### POST
-<img width="1920" height="1080" alt="exp3 postmapping" src="https://github.com/user-attachments/assets/05d110bc-67e4-434d-979a-ff6f8c866850" />
+<img width="1917" height="1016" alt="ex3 post" src="https://github.com/user-attachments/assets/41c039d8-9341-469e-bc99-9fc158d9b65e" />
+
 
 ### GET
-<img width="1920" height="1080" alt="exp3 getmapping" src="https://github.com/user-attachments/assets/6ce467af-fe46-421e-b20e-2a58ba0a5cf7" />
+<img width="1917" height="1017" alt="ex3 get" src="https://github.com/user-attachments/assets/822d16d4-3e3f-43a2-8d91-3d8c1c533247" />
 
 ### Get by Id
-<img width="1920" height="1080" alt="exp3 getmappingbyid" src="https://github.com/user-attachments/assets/4a5a3631-3778-44e1-9c2b-7c0e2d8110ef" />
+<img width="1918" height="1025" alt="ex3 getbyid" src="https://github.com/user-attachments/assets/22e9b9bb-7c8c-4e6e-b2a6-7c393457f28e" />
+
 
 ### PUT 
-<img width="1920" height="1080" alt="exp3 putmapping" src="https://github.com/user-attachments/assets/6edcfdad-b345-463e-b2f4-58c066a47535" />
+<img width="1917" height="1030" alt="ex3 put" src="https://github.com/user-attachments/assets/27ee6482-f360-4051-9d89-ab6fde9bd382" />
+
 
 ### DELETE
-<img width="1920" height="1080" alt="exp3 deletemapping" src="https://github.com/user-attachments/assets/d31435c5-72d3-4d0a-b17b-a17e8a5c7f77" />
+<img width="1918" height="1031" alt="ex3 delete" src="https://github.com/user-attachments/assets/72fdd7f8-f35e-41ff-9670-083b44384fbb" />
+
 
 ### h2-console
-<img width="1920" height="1080" alt="exp3 h2-console" src="https://github.com/user-attachments/assets/e9639092-d5b5-4d9e-b781-a4c202184ae5" />
+<img width="1918" height="1025" alt="ex3 h2 console" src="https://github.com/user-attachments/assets/b80a44dc-014d-484e-a0d9-52a3eabb1ede" />
+
 
 # Result:
 The Spring Boot application for performing CRUD operations on the Student entity using Spring Data JPA (Hibernate) and an in-memory H2 database was successfully developed, executed, and verified using Postman API requests and the H2 Web Console.
